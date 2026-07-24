@@ -101,7 +101,8 @@ The dataset contains information related to:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+<img width="1826" height="752" alt="image" src="https://github.com/user-attachments/assets/7d92fc5a-8436-4023-8ba9-b1908e2aeaba" />
+
 
 ---
 
