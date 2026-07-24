@@ -115,7 +115,6 @@ website-traffic-conversion-dashboard
 ├── dashboard
 ├── screenshots
 ├── README.md
-└── LICENSE
 ```
 
 # 💼 Skills Demonstrated
